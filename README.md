@@ -1,2 +1,2 @@
 # Google-Sheet
-codes that relates esp with google sheet
+codes that connect esp with google sheet
